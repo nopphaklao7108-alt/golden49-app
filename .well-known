@@ -1,0 +1,15 @@
+ACCEPTED_CURRENCIES = "LOT"
+CURRENCIES = [
+  {
+    code = "LOT G49",
+    issuer = "GCA6H55FPQO3KOZLJPR2LYD7PMTOPQPQOLG7S46GFGEG6Q7WU4R4VD7F",
+    name = "Land Of gold Trending",
+    desc = "เหรียญ Utility ของ Golden49 สร้างโดย CEO นพ LOT",
+    logo = "https://noppaklao7108-alt.github.io/golden49-app/logo/lot-g49.png",
+    fixed_number = 49000000
+  }
+]
+SIGNING_KEY = "GCA6H55FPQO3KOZLJPR2LYD7PMTOPQPQOLG7S46GFGEG6Q7WU4R4VD7F"
+VERSION = "2.0.0"
+NETWORK_PASSPHRASE = "Pi Network"
+HOMEPAGE = "https://noppaklao7108-alt.github.io/golden49-app"
